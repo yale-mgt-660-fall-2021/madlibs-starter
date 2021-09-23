@@ -1,5 +1,5 @@
 nouns = nouns.concat([
-    'man',
-    'bear',
-    'pig'
+    'spaceman',
+    'alien',
+    'cow'
 ]);
