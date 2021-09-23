@@ -1,5 +1,19 @@
 adjectives = adjectives.concat([
     'short',
     'crafty',
-    'wiley'
+    'wiley',
+    'sophisticated',
+    'hedonistic',
+    'lazy',
+    'narcissistic',
+    'demure',
+    'ancient',
+    'pungent',
+    'smoggy',
+    'barbaric',
+    'drab',
+    'sweaty',
+    'majestic',
+    'ugly',
+    'foul'
 ]);

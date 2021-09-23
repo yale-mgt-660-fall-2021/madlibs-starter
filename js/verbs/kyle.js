@@ -1,5 +1,18 @@
 verbs = verbs.concat([
     'run',
-    'jump',
-    'code'
+    'sleep',
+    'play',
+    'alienate',
+    'discover',
+    'finalize',
+    'implement',
+    'reconsider',
+    'attack',
+    'stimulate',
+    'retain',
+    'kill',
+    'resist',
+    'shatter',
+    'mimic',
+    'push'
 ]);
