@@ -13,5 +13,10 @@ adverbs = adverbs.concat([
     'sheepishly',
     'tightly',
     'reluctantly',
-    'unbearably'
+    'unbearably',
+    'smartly',
+    'sketchily',
+    'foolishly',
+    'upsettingly',
+    'arousingly'
 ]);

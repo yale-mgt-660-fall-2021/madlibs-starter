@@ -14,5 +14,14 @@ verbs = verbs.concat([
     'resist',
     'shatter',
     'mimic',
-    'push'
+    'push',
+    'jump',
+    'code',
+    'scream',
+    'cry',
+    'eat',
+    'laugh',
+    'love',
+    'embrace',
+    'study'
 ]);

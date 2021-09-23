@@ -11,5 +11,10 @@ nouns = nouns.concat([
     'baby',
     'the dean',
     'university',
-    'refrigerator'
+    'refrigerator',
+    'MBA student',
+    'SOM faculty',
+    'bald chicken',
+    'bubble tea',
+    'latte'
 ]);
